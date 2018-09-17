@@ -50,7 +50,7 @@ Any hacky css to be later improved, things like !important or overflow: hidden.
 I use a BEM style class naming convention like this:
 - block `.icon` 
 - element `.icon--icon`
-- modifier `icon_wide`
+- modifier `.icon_wide`
 
 This is how the sass looks:
 ```sass
